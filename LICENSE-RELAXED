@@ -1,4 +1,4 @@
-Me0wo Public License
+Me0wo Public License Relaxed
 Version 1.3, July 2026
 
 TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
@@ -261,62 +261,41 @@ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
 11. Scope and Distribution Terms.
 
-    The following definitions and conditions apply in addition to
-    Section 4 and qualify the scope of the licenses granted above.
+    The following conditions apply in addition to Section 4 and qualify
+    the scope of the licenses granted above.
 
-    "Corresponding Source" for a work in Object form means all Source
-    form needed to generate, reproduce, build, install, run, operate,
-    debug, and modify the Object form, including scripts, build files,
-    interface files, configuration files, dependency manifests, and other
-    materials used to control those activities. However, it does not
-    include System Libraries or general-purpose tools that are generally
-    available to the public, used unmodified in performing those
-    activities, and not part of the Work or Derivative Work.
-
-    "System Libraries" means components that are normally distributed
-    with or as part of a major component of the operating system,
-    language runtime, compiler, standard library, or platform on which
-    the Work runs, and that are used unmodified and are not specifically
-    designed for or included as part of the Work or Derivative Work.
-
-    (a) Source for Object Distribution. If You distribute or make
-        available the Work or any Derivative Work in Object form, You
-        must provide the complete Corresponding Source for that Object
-        form under the terms of this License. The Corresponding Source
-        must be provided either together with the Object form, or through
-        a clear and durable written offer or network location that
-        remains valid for at least five (5) years after Your last
-        distribution of that Object form.
-
-    (b) Network Source Requirement. If You make the functionality of the
-        Work or a Derivative Work available through Network Use, You must
-        prominently offer all users of that Network Use a copy of this
-        License and the complete Corresponding Source of the Work or
-        Derivative Work under the terms of this License.
-
-    (c) Same License for Derivative Works. Any Derivative Work that You
-        distribute, make available, or use through Network Use must be
-        licensed, as a whole, under the terms of this License, without
-        additional restrictions that would limit the rights granted by
+    (a) Object Form and Source Disclosure. You may distribute or make
+        available the Work or a Derivative Work in Object form, including
+        compiled binaries, packaged applications, minified files,
+        generated assets, or container images, without disclosing the
+        complete Source form, provided that You otherwise comply with
         this License.
 
-        You may add Your own copyright statements to Your modifications.
-        You may also license Your own modifications separately under
-        different terms, including commercial or proprietary terms,
-        provided that the complete Derivative Work remains available to
-        recipients and network users under this License, and provided
-        that such separate terms do not restrict the exercise of rights
-        granted under this License for the Work or Derivative Work as a
-        whole.
+    (b) Network Use. You may make the functionality of the Work or a
+        Derivative Work available through Network Use without disclosing
+        the complete Source form, provided that You otherwise comply with
+        this License. You must still provide users of that Network Use
+        with reasonable notice that the Work or Derivative Work is
+        licensed under this License.
+
+    (c) Derivative Works and Separate Terms. You may license Your own
+        modifications, additions, Derivative Works, or separate
+        components under additional or different terms, including
+        proprietary or commercial terms, provided that:
+        (i) the Work itself remains licensed under this License;
+        (ii) copyright, license, attribution, and NOTICE requirements
+        for the Work are preserved; and
+        (iii) such additional or different terms do not remove or alter
+        this License for the Work itself.
 
 END OF TERMS AND CONDITIONS
 
-APPENDIX: How to apply the Me0wo Public License to your work.
+APPENDIX: How to apply the Me0wo Public License Relaxed to your work.
 
-   To apply the Me0wo Public License to your work, attach the following
-   boilerplate notice, with the fields enclosed by brackets "[]"
-   replaced with your own identifying information. Do not include the
-   brackets. The text should be enclosed in the appropriate comment
+   To apply the Me0wo Public License Relaxed to your work, attach the
+   following boilerplate notice, with the fields enclosed by brackets
+   "[]" replaced with your own identifying information. Do not include
+   the brackets. The text should be enclosed in the appropriate comment
    syntax for the file format. We also recommend that a file or class
    name and description of purpose be included on the same printed page
    as the copyright notice for easier identification within third-party
@@ -324,11 +303,11 @@ APPENDIX: How to apply the Me0wo Public License to your work.
 
 Copyright [yyyy] [name of copyright owner]
 
-Licensed under the Me0wo Public License, Version 1.3 (the "License");
+Licensed under the Me0wo Public License Relaxed, Version 1.3 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
 
-    https://github.com/Sn0wo2/Me0wo-LICENSE/blob/main/LICENSE
+    https://github.com/Sn0wo2/Me0wo-LICENSE/blob/main/LICENSE-RELAXED
 
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS,
